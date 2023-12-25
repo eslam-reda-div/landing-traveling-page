@@ -1,6 +1,6 @@
 ## Landing page for traveling app
 
-# test
+# https://landing-traveling-page.vercel.app/
 
 ![screencapture](./screencapture.png)
 
